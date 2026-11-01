@@ -1,0 +1,10 @@
+{
+    "file_format_version": "1.0.0",
+    "api_layer": {
+        "name": "XR_APILAYER_ZED_re2_frame_bindings",
+        "library_path": "../re2_frame_controllers.dll",
+        "api_version": "1.0",
+        "implementation_version": "1",
+        "description": "Steam Frame controller bindings for REFramework VR (RE2)"
+    }
+}
